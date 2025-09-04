@@ -4,7 +4,7 @@
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CWhdlXkQuJw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+[![Video Demo](video.gif)](https://www.youtube.com/watch?v=CWhdlXkQuJw)
 
 
 <p align="center">
