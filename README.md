@@ -8,6 +8,20 @@
 </p>
 
 ---
+
+<h1 align="center">
+  About Me
+</h1>
+
+Saya **Henalvaro Farrel Bagas Qusuma**  
+Saya sekolah di **SMK NEGERI 1 SURABAYA** dan mengambil jurusan **Teknik Komputer & Jaringan (TKJ)**  
+Saat ini saya sedang belajar **Web Developer, Cybersecurity, dan Linux**  
+Saya senang mengeksplorasi dunia teknologi dan terus mengasah keterampilan baru  
+
+<h1 align="center">
+  GitHub Stats
+</h1>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Henalvaro19&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -19,6 +33,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,git,github,linux,windows,vscode" />
 </p>
+
+<h1 align="center">
+  Contact
+</h1>
 
 <p align="center">
   <a href="https://instagram.com/username_igmu" target="_blank">Instagram</a> •
