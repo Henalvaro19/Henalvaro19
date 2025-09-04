@@ -6,6 +6,8 @@
 
 [![Video Demo](video.gif)](https://www.youtube.com/watch?v=CWhdlXkQuJw)
 
+[![Winter Pixel Art](winter.gif)](https://www.youtube.com/watch?v=c-WfFDXq2F8)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Henalvaro19&show_icons=true&theme=radical" alt="GitHub Stats" />
