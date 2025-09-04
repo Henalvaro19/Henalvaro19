@@ -9,6 +9,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BjcjdtdmYzc3E0M3k5YWQ3dGoybnBpbzc4MXp1YXFqNnFieWFvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNxQn4OIJqWoW3EFSZ/giphy.gif" alt="Video Demo" />
+</p>
+
 <h1 align="center">
   About Me
 </h1>
