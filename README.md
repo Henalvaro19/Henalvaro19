@@ -7,5 +7,3 @@
 
 ### 📊 Statistik
 ![Farrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henalvaro19&show_icons=true&theme=radical)
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
