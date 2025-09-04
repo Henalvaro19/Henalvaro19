@@ -1,8 +1,7 @@
-<h1 align="center">Hi, Saya Farrel 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FFB3&center=true&vCenter=true&width=600&lines=Hi,+Farrel!;Saya+seorang+Pelajar;Bla+Bla+Bla+🚀;Selamat+Datang+di+Profil+GitHub+saya" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG0ycTRoZm5paGdnN2kycGxpa3cyZ2x1dDRhNGhlN2NycXJla2NuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wSSooF0fJM97W/giphy.gif" width="600"/>
-</p>
 
 
 ### 📊 Statistik
