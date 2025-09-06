@@ -34,14 +34,14 @@ Saya senang mengeksplorasi dunia teknologi dan terus mengasah keterampilan baru
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,git,github,linux,windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,github,linux,windows" />
 </p>
 
 <h1 align="center">
   Contact
 </h1>
 
-<p align="center">
-  <a href="https://instagram.com/username_igmu" target="_blank">Instagram</a> •
-  <a href="https://wa.me/628xxxxxxxxxx" target="_blank">WhatsApp</a>
+<p align="center" color="white" text-decoration="none">
+  <a href="https://www.instagram.com/pharelcsr?igsh=aWU5cnZ0MTNkdzZn" target="_blank">Instagram</a> •
+  <a href="henalvarofarrel@gmail.com" target="_blank">Email</a>
 </p>
