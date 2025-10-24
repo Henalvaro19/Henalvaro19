@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?size=28&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Halo+semua;Saya+Henalvaro+Farrel+Bagas+Qusuma" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/Henalvaro19?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explore-blue"></a>
-  <a href="https://github.com/Henalvaro19"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Henalvaro19&style=flat"></a>
-</p>
-
 ---
 
 <p align="center">
@@ -16,10 +11,15 @@
   About Me
 </h1>
 
-Saya **Henalvaro Farrel Bagas Qusuma**  
-Saya sekolah di **SMK NEGERI 1 SURABAYA** dan mengambil jurusan **Teknik Komputer & Jaringan (TKJ)**  
-Saat ini saya sedang belajar **Web Developer, Cybersecurity, dan Linux**  
-Saya senang mengeksplorasi dunia teknologi dan terus mengasah keterampilan baru  
+<div align="center">
+
+# Henalvaro Farrel Bagas Qusuma
+
+**Student | TKJ @ SMKN 1 Surabaya**  
+Learning: **Web Dev • Cybersecurity • Linux**  
+Focused on growth through *code* and *curiosity.*
+
+</div>
 
 <h1 align="center">
   GitHub Stats
