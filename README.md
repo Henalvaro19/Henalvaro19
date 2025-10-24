@@ -13,8 +13,7 @@
 
 <div align="center">
 
-# Henalvaro Farrel Bagas Qusuma
-
+**Henalvaro Farrel Bagas Qusuma**
 **Student | TKJ @ SMKN 1 Surabaya**  
 Learning: **Web Dev • Cybersecurity • Linux**  
 Focused on growth through *code* and *curiosity.*
