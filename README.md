@@ -1,46 +1,60 @@
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Halo+semua;Saya+Henalvaro+Farrel+Bagas+Qusuma" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=FF007F&center=true&vCenter=true&width=650&lines=Halo+Semua!;Saya+Henalvaro+Farrel+Bagas+Qusuma;Selamat+Datang+di+Profil+GitHub+saya!+👋" alt="Typing SVG" />
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd6YTNuN3p2M3ZlaDM4Njd2N3huYWdtdXZxazZ4dDZjYXhyZDhpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdRvbtMEJig1PKo/giphy.gif" alt="Video Demo" />
+  <img src="https://media2.giphy.com/media/3ohzdRvbtMEJig1PKo/giphy.gif" width="500" alt="GIF" />
 </p>
-<h1 align="center">
-  About Me
-</h1>
+
+---
+
+<h2 align="center">✨ About Me ✨</h2>
 
 <div align="center">
 
-**Henalvaro Farrel Bagas Qusuma**
-**Student | TKJ @ SMKN 1 Surabaya**  
-Learning: **Web Dev • Cybersecurity • Linux**  
+**Henalvaro Farrel Bagas Qusuma** <br>
+*Student | TKJ @ SMKN 1 Surabaya*
+Learning: **Web Dev • Cybersecurity • Linux**
 Focused on growth through *code* and *curiosity.*
 
 </div>
 
-<h1 align="center">
-  GitHub Stats
-</h1>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henalvaro19&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henalvaro19&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Henalvaro19&show_icons=true&theme=radical&hide_border=true" height="160px" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henalvaro19&theme=radical&hide_border=true" height="160px" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,github,linux,windows" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henalvaro19&layout=compact&theme=radical&hide_border=true" height="160px" alt="Top Languages" />
 </p>
 
-<h1 align="center">
-  Contact
-</h1>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center" color="white" text-decoration="none">
-  <a href="https://www.instagram.com/pharelcsr?igsh=aWU5cnZ0MTNkdzZn" target="_blank">Instagram</a> •
-  <a href="henalvarofarrel@gmail.com" target="_blank">Email</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,github,linux,windows,vscode" alt="Skills" />
 </p>
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/pharelcsr?igsh=aWU5cnZ0MTNkdzZn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:henalvarofarrel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <em>"Code. Learn. Repeat. Every bug is just another step toward mastery."</em>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting! ⭐</h3>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
