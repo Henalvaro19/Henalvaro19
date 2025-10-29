@@ -1,8 +1,4 @@
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=FF007F&center=true&vCenter=true&width=650&lines=Halo+Semua!;Saya+Henalvaro+Farrel+Bagas+Qusuma;Selamat+Datang+di+Profil+GitHub+saya!+👋" alt="Typing SVG" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF007F&center=true&vCenter=true&width=650&lines=Halo+Semua!;Saya+Henalvaro+Farrel+Bagas+Qusuma;Selamat+Datang+" alt="Typing SVG" />
 
 ---
 
@@ -56,5 +52,3 @@ Focused on growth through *code* and *curiosity.*
 </p>
 
 <h3 align="center">⭐ Thanks for visiting! ⭐</h3>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
