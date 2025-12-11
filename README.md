@@ -19,17 +19,6 @@ Focused on growth through *code* and *curiosity.*
 
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henalvaro19&show_icons=true&theme=radical&hide_border=true" height="160px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henalvaro19&theme=radical&hide_border=true" height="160px" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henalvaro19&layout=compact&theme=radical&hide_border=true" height="160px" alt="Top Languages" />
-</p>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
