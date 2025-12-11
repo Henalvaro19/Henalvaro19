@@ -36,6 +36,8 @@ Focused on growth through *code* and *curiosity.*
   </a>
 </p>
 
+![Pacman](https://raw.githubusercontent.com/Henalvaro19/Henalvaro19/output/pacman-contribution-graph.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henalvaro19/Henalvaro19/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henalvaro19/Henalvaro19/output/pacman-contribution-graph.svg">
