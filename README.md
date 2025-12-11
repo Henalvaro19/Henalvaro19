@@ -22,7 +22,7 @@ Focused on growth through *code* and *curiosity.*
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,github,linux,windows,vscode,kali" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,js,tailwindcss,github,windows,vscode,kali" alt="Skills" />
 </p>
 
 <h2 align="center">📫 Contact Me</h2>
