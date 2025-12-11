@@ -22,7 +22,7 @@ Focused on growth through *code* and *curiosity.*
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,github,linux,windows,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,github,linux,windows,vscode,kali" alt="Skills" />
 </p>
 
 <h2 align="center">📫 Contact Me</h2>
@@ -35,6 +35,12 @@ Focused on growth through *code* and *curiosity.*
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henalvaro19/Henalvaro19/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henalvaro19/Henalvaro19/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Henalvaro19/Henalvaro19/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <em>"Code. Learn. Repeat. Every bug is just another step toward mastery."</em>
